@@ -50,7 +50,10 @@ jobs:
       - name: Stop App Pool
         run: |
           Import-Module WebAdministration
-          Stop-WebAppPool -Name "DefaultAppPool"
+          $state = (Get-WebAppPoolState -Name "DefaultAppPool").Value
+          if ($state -eq "Started") {
+              Stop-WebAppPool -Name "DefaultAppPool"
+          }
 
       - name: Publish Project
         run: |
