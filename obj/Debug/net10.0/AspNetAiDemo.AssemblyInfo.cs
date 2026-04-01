@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNetAiDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e2ee4106540ccfa853d19ba07193457e3bc230c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e061bd1cd642e91a66be1dd959298fc18479288")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNetAiDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNetAiDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
