@@ -26,7 +26,6 @@ wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
@@ -61,6 +60,7 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 D:\Shruti\ASPdotNetAI_demo\AspNetAiDemo\wwwroot\css\site.css
 D:\Shruti\ASPdotNetAI_demo\AspNetAiDemo\wwwroot\favicon.ico
 D:\Shruti\ASPdotNetAI_demo\AspNetAiDemo\wwwroot\js\site.js
@@ -89,7 +89,6 @@ D:\Shruti\ASPdotNetAI_demo\AspNetAiDemo\wwwroot\lib\bootstrap\dist\css\bootstrap
 D:\Shruti\ASPdotNetAI_demo\AspNetAiDemo\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 D:\Shruti\ASPdotNetAI_demo\AspNetAiDemo\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
 D:\Shruti\ASPdotNetAI_demo\AspNetAiDemo\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-D:\Shruti\ASPdotNetAI_demo\AspNetAiDemo\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 D:\Shruti\ASPdotNetAI_demo\AspNetAiDemo\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
 D:\Shruti\ASPdotNetAI_demo\AspNetAiDemo\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
 D:\Shruti\ASPdotNetAI_demo\AspNetAiDemo\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
@@ -123,3 +122,4 @@ D:\Shruti\ASPdotNetAI_demo\AspNetAiDemo\wwwroot\lib\jquery\dist\jquery.slim.js
 D:\Shruti\ASPdotNetAI_demo\AspNetAiDemo\wwwroot\lib\jquery\dist\jquery.slim.min.js
 D:\Shruti\ASPdotNetAI_demo\AspNetAiDemo\wwwroot\lib\jquery\dist\jquery.slim.min.map
 D:\Shruti\ASPdotNetAI_demo\AspNetAiDemo\wwwroot\lib\jquery\LICENSE.txt
+D:\Shruti\ASPdotNetAI_demo\AspNetAiDemo\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

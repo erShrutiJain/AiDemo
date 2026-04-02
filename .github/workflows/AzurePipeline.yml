@@ -1,9 +1,11 @@
 ﻿name: .NET Build Pipeline
-
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 on:
   push:
     branches:
       - main
+
 
 jobs:
 
@@ -32,7 +34,7 @@ jobs:
 
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Show Project Files
         run: Get-ChildItem -Recurse -Filter *.csproj
